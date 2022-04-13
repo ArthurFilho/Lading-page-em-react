@@ -19,7 +19,7 @@ return(
                         <option value="PE">Pernambuco</option>
                     </select> 
                         
-                   {/* <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"/></div> */}
+                   
              <input id="inputsubmit" type="submit" value="INSCREVA-SE"/> 
              </form>
             </div>
