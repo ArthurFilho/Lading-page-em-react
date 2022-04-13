@@ -9,9 +9,9 @@ return(
                 
                     </h2>
                  <p className="mb"> Lorem Ipsum is  Ipsum passages, and more rece.</p>
-                 {/* <form>
-                    <input id="name" name="FNAME" type="text" placeholder="Name"> </input>
-                    <input id="email" name="EMAIL" type="email" placeholder="Email"></input>
+                 <form>
+                    <input id="name" name="FNAME" type="text" placeholder="Name"/>
+                    <input id="email" name="EMAIL" type="email" placeholder="Email"/>
                     <select id="PLACE">
                         <option value="BA">Bahia</option>
                         <option value="SP">São Paulo</option>
@@ -19,9 +19,9 @@ return(
                         <option value="PE">Pernambuco</option>
                     </select> 
                         
-                   <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"></input></div>
-             <input id="inputsubmit" type="submit" value="INSCREVA-SE"></input>
-             </form> */}
+                   {/* <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"/></div> */}
+             <input id="inputsubmit" type="submit" value="INSCREVA-SE"/> 
+             </form>
             </div>
         </section>
 )
